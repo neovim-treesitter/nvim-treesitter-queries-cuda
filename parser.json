@@ -1,9 +1,9 @@
 {
+  "generate_from_json": null,
   "url": "https://github.com/tree-sitter-grammars/tree-sitter-cuda",
   "lang": "cuda",
   "parser_version": "48b066f334f4cf2174e05a50218ce2ed98b6fd01",
   "location": null,
   "semver": false,
-  "generate": null,
-  "generate_from_json": null
+  "generate": null
 }
